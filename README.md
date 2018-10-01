@@ -1,2 +1,2 @@
 # SquareSum
-A simple maths game implemented in C++
+A simple maths game implemented in JAVA
